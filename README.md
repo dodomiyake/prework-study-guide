@@ -1,1 +1,1 @@
-# prework-study-guide
+Bootcamp prework study group for students
